@@ -1,5 +1,7 @@
 # Manufacturing & Sales Automated Reporting Pipeline
 
+[![tests](https://github.com/rmrdiento/manufacturing-auto-reporter/actions/workflows/tests.yml/badge.svg)](https://github.com/rmrdiento/manufacturing-auto-reporter/actions/workflows/tests.yml)
+
 Every week someone merges shift logs into Excel, recalculates OEE by hand and rebuilds the same charts. This pipeline replaces that: raw production data goes in, a validated SQLite database, an executive Excel workbook and a standalone HTML dashboard come out. One command, about a second. It saves **5+ hours of manual reporting per week**.
 
 ## What you get
