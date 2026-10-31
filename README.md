@@ -10,10 +10,7 @@ Every week someone merges shift logs into Excel, recalculates OEE by hand and re
 | `reports/dashboard.html` | Responsive dashboard: KPI cards, colour-coded Line × Shift table, Pareto bars, daily scrap chart. CSS is inlined, no CDN, works offline |
 | `production.db` | Validated data in SQLite table `production` |
 
-![Excel report](docs/excel_report.png)
 ![HTML dashboard](docs/dashboard.png)
-
-*(placeholders: run the pipeline and replace with your own screenshots)*
 
 ## Quick start
 
